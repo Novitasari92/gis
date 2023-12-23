@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "name": "Gedung Goethe Institut Bandung"},
+      "properties": { 
+        "name": "Gedung Goethe Institut Bandung"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -34,7 +36,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"name": "Gedung Heritage Fashion"},
+      "properties": {
+        "name": "Gedung Heritage Fashion"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -65,7 +69,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"name": "Aula Serbaguna"},
+      "properties": {
+        "name": "Aula Serbaguna"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -91,38 +97,7 @@
             ]
           ]
         ],
-        "type": "Polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              107.61757585604897,
-              -6.906306565727576
-            ],
-            [
-              107.61757585604897,
-              -6.906484925036679
-            ],
-            [
-              107.61767033398445,
-              -6.906484925036679
-            ],
-            [
-              107.61767033398445,
-              -6.906306565727576
-            ],
-            [
-              107.61757585604897,
-              -6.906306565727576
-            ]
-          ]
-        ],
-        "type": "Polygon"
+        "type": "LineString"
       }
     }
   ]
