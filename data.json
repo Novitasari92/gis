@@ -1,1 +1,106 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","propertie":{"name":"TAMBAL BAN, AGUS"},"geometry":{"coordinates":[107.6281646,-6.8997086],"type":"Point"}},{"type":"Feature","propertie":{"name":"TAMBAL BAN DAGO 253"},"geometry":{"coordinates":[107.6159123,-6.8809597],"type":"Point"}},{"type":"Feature","propertie":{"name":"Bengkel Motor & Tambal Ban 030T"},"geometry":{"coordinates":[107.5882637,-6.9302208],"type":"Point"}},{"type":"Feature","propertie":{"name":"Tambal Ban Putra Panjalu"},"geometry":{"coordinates":[107.5981474,-6.9473206],"type":"Point"}},{"type":"Feature","propertie":{"name":"Tambal Ban Samsat"},"geometry":{"coordinates":[107.6417251,-6.9449366],"type":"Point"}},{"type":"Feature","propertie":{"name":"TAMBAL BAN, AGUS"},"geometry":{"coordinates":[[[107.6281646,-6.8997086],[107.62816173073867,-6.8999193798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"TAMBAL BAN DAGO 253"},"geometry":{"coordinates":[[[107.6159123,-6.8809597],[107.61590943073867,-6.8811704798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Bengkel Motor & Tambal Ban 030T"},"geometry":{"coordinates":[[[107.5882637,-6.9302208],[107.58826083073866,-6.9304315798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Tambal Ban Putra Panjalu"},"geometry":{"coordinates":[[[107.5981474,-6.9473206],[107.59814453073867,-6.9475313798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Tambal Ban Samsat"},"geometry":{"coordinates":[[[107.6417251,-6.9449366],[107.64172223073867,-6.9451473798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"TAMBAL BAN, AGUS"},"geometry":{"coordinates":[[[107.6281646,-6.8997086],[107.628145824317,-6.8998297535882],[107.62824533543801,-6.899831617489711],[107.62825472328001,-6.899708599999971],[107.6281646,-6.899708599999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"TAMBAL BAN DAGO 253"},"geometry":{"coordinates":[[[107.6159123,-6.8809597],[107.615893524317,-6.8810808535882],[107.61599303543801,-6.8810827174897105],[107.61600242328001,-6.880959699999971],[107.6159123,-6.880959699999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Bengkel Motor & Tambal Ban 030T"},"geometry":{"coordinates":[[[107.5882637,-6.9302208],[107.588244924317,-6.9303419535882],[107.588344435438,-6.93034381748971],[107.58835382328,-6.9302207999999705],[107.5882637,-6.9302207999999705]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Tambal Ban Putra Panjalu"},"geometry":{"coordinates":[[[107.5981474,-6.9473206],[107.598128624317,-6.9474417535882],[107.598228135438,-6.947443617489711],[107.59823752328,-6.947320599999971],[107.5981474,-6.947320599999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Tambal Ban Samsat"},"geometry":{"coordinates":[[[107.6417251,-6.9449366],[107.641706324317,-6.9450577535882],[107.641805835438,-6.945059617489711],[107.64181522328,-6.944936599999971],[107.6417251,-6.944936599999971]]],"type":"Polygon"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung Rektorat"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.57553607088482,
+                -6.873686834063591
+              ],
+              [
+                107.57550699801232,
+                -6.873865265463579
+              ],
+              [
+                107.57582151362982,
+                -6.873930865225944
+              ],
+              [
+                107.57585058650227,
+                -6.87374980985922
+              ],
+              [
+                107.57570522214144,
+                -6.873720945953536
+              ],
+              [
+                107.57553607088482,
+                -6.873686834063591
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung Pendidikan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.57525501601577,
+                -6.87321358139036
+              ],
+              [
+                107.5752283365386,
+                -6.873583581896455
+              ],
+              [
+                107.57578610435593,
+                -6.873626624441528
+              ],
+              [
+                107.57581611876782,
+                -6.873261590420185
+              ],
+              [
+                107.57525501601577,
+                -6.87321358139036
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Auditorium"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57602973411036,
+              -6.8732794028977935
+            ],
+            [
+              107.57596954488866,
+              -6.87365843069189
+            ],
+            [
+              107.57622233962314,
+              -6.8737028213150495
+            ],
+            [
+              107.57628080915379,
+              -6.873320378889417
+            ],
+            [
+              107.57602973411036,
+              -6.873281110230849
+            ]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }
