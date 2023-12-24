@@ -1,1 +1,219 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","propertie":{"name":"Alfamart BEC"},"geometry":{"coordinates":[107.6093587,-6.9087703],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart Express Tera Residence"},"geometry":{"coordinates":[107.6124576,-6.9159333],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[107.6039245,-6.9181124],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart Gardujati 28"},"geometry":{"coordinates":[107.5983906,-6.9190596],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[107.6086137,-6.9274916],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[107.5937635,-6.9261473],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart Lengkong Besar 101 B"},"geometry":{"coordinates":[107.613402,-6.927074],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart Gatsu 269 TSM"},"geometry":{"coordinates":[107.634909,-6.9267631],"type":"Point"}},{"type":"Feature","propertie":{"name":"Sumber Alfaria Trijaya. PT (Alfamart)"},"geometry":{"coordinates":[107.609536,-6.92894],"type":"Point"}},{"type":"Feature","propertie":{"name":"Sumber Alfaria Trijaya. PT (Alfamart)"},"geometry":{"coordinates":[107.601207,-6.9309],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart Sarimanah 2"},"geometry":{"coordinates":[107.5762126,-6.8804829],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart Gatsu Binong"},"geometry":{"coordinates":[107.6396262,-6.930422],"type":"Point"}},{"type":"Feature","propertie":{"name":"Alfamart BEC"},"geometry":{"coordinates":[[[107.6093587,-6.9087703],[107.60935583073866,-6.9089810798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart Express Tera Residence"},"geometry":{"coordinates":[[[107.6124576,-6.9159333],[107.61245473073866,-6.9161440798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[[[107.6039245,-6.9181124],[107.60392163073867,-6.9183231798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart Gardujati 28"},"geometry":{"coordinates":[[[107.5983906,-6.9190596],[107.59838773073866,-6.9192703798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[[[107.6086137,-6.9274916],[107.60861083073867,-6.9277023798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[[[107.5937635,-6.9261473],[107.59376063073866,-6.9263580798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart Lengkong Besar 101 B"},"geometry":{"coordinates":[[[107.613402,-6.927074],[107.61339913073866,-6.9272847798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart Gatsu 269 TSM"},"geometry":{"coordinates":[[[107.634909,-6.9267631],[107.63490613073866,-6.9269738798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Sumber Alfaria Trijaya. PT (Alfamart)"},"geometry":{"coordinates":[[[107.609536,-6.92894],[107.60953313073867,-6.9291507798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Sumber Alfaria Trijaya. PT (Alfamart)"},"geometry":{"coordinates":[[[107.601207,-6.9309],[107.60120413073867,-6.9311107798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart Sarimanah 2"},"geometry":{"coordinates":[[[107.5762126,-6.8804829],[107.57620973073867,-6.8806936798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart Gatsu Binong"},"geometry":{"coordinates":[[[107.6396262,-6.930422],[107.63962333073866,-6.9306327798852]]],"type":"LineString"}},{"type":"Feature","propertie":{"name":"Alfamart BEC"},"geometry":{"coordinates":[[[107.6093587,-6.9087703],[107.609339924317,-6.9088914535882],[107.609439435438,-6.90889331748971],[107.60944882328,-6.90877029999997],[107.6093587,-6.90877029999997]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart Express Tera Residence"},"geometry":{"coordinates":[[[107.6124576,-6.9159333],[107.612438824317,-6.9160544535882],[107.612538335438,-6.91605631748971],[107.61254772328,-6.9159332999999705],[107.6124576,-6.9159332999999705]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[[[107.6039245,-6.9181124],[107.603905724317,-6.9182335535882],[107.60400523543801,-6.9182354174897105],[107.60401462328001,-6.918112399999971],[107.6039245,-6.918112399999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart Gardujati 28"},"geometry":{"coordinates":[[[107.5983906,-6.9190596],[107.598371824317,-6.9191807535882],[107.598471335438,-6.91918261748971],[107.59848072328,-6.9190595999999704],[107.5983906,-6.9190595999999704]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[[[107.6086137,-6.9274916],[107.608594924317,-6.9276127535882],[107.60869443543801,-6.92761461748971],[107.60870382328001,-6.92749159999997],[107.6086137,-6.92749159999997]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart"},"geometry":{"coordinates":[[[107.5937635,-6.9261473],[107.59374472431699,-6.9262684535882],[107.593844235438,-6.926270317489711],[107.59385362328,-6.926147299999971],[107.5937635,-6.926147299999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart Lengkong Besar 101 B"},"geometry":{"coordinates":[[[107.613402,-6.927074],[107.61338322431699,-6.9271951535882],[107.613482735438,-6.927197017489711],[107.61349212328,-6.927073999999971],[107.613402,-6.927073999999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart Gatsu 269 TSM"},"geometry":{"coordinates":[[[107.634909,-6.9267631],[107.63489022431699,-6.9268842535882],[107.634989735438,-6.92688611748971],[107.63499912328,-6.92676309999997],[107.634909,-6.92676309999997]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Sumber Alfaria Trijaya. PT (Alfamart)"},"geometry":{"coordinates":[[[107.609536,-6.92894],[107.609517224317,-6.9290611535882],[107.60961673543801,-6.92906301748971],[107.60962612328001,-6.928939999999971],[107.609536,-6.928939999999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Sumber Alfaria Trijaya. PT (Alfamart)"},"geometry":{"coordinates":[[[107.601207,-6.9309],[107.601188224317,-6.9310211535882],[107.601287735438,-6.931023017489711],[107.60129712328,-6.930899999999971],[107.601207,-6.930899999999971]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart Sarimanah 2"},"geometry":{"coordinates":[[[107.5762126,-6.8804829],[107.576193824317,-6.8806040535882],[107.57629333543801,-6.88060591748971],[107.57630272328001,-6.88048289999997],[107.5762126,-6.88048289999997]]],"type":"Polygon"}},{"type":"Feature","propertie":{"name":"Alfamart Gatsu Binong"},"geometry":{"coordinates":[[[107.6396262,-6.930422],[107.63960742431699,-6.9305431535882],[107.639706935438,-6.9305450174897105],[107.63971632328,-6.930421999999971],[107.6396262,-6.930421999999971]]],"type":"Polygon"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Fine Art"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.814328286268,
+            -6.134386137927521
+          ],
+          [
+            106.8147017221242,
+            -6.134278546010137
+          ],
+          [
+            106.81473991442817,
+            -6.1344030150886795
+          ],
+          [
+            106.81435162600877,
+            -6.13451060698101
+          ],
+          [
+            106.81431979908888,
+            -6.134384028281815
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemadam Kebakaran Tamansari"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.81501522967488,
+            -6.134233074933562
+          ],
+          [
+            106.81513187475417,
+            -6.134197811593296
+          ],
+          [
+            106.81519571429044,
+            -6.1344172278894575
+          ],
+          [
+            106.81507906921115,
+            -6.134447005809037
+          ],
+          [
+            106.81501444153224,
+            -6.134232291303604
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aula serbaguna"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.81587061338365,
+              -6.134283742710096
+            ],
+            [
+              106.81588222759478,
+              -6.134353028961826
+            ],
+            [
+              106.81598965903976,
+              -6.13432704661804
+            ],
+            [
+              106.81595191285743,
+              -6.134260647290034
+            ],
+            [
+              106.81587061338365,
+              -6.134283742710096
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambrogio Cafe"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.61745069538978,
+            -6.908183512916224
+          ],
+          [
+            107.61755099385988,
+            -6.908162912175399
+          ],
+          [
+            107.61757709032395,
+            -6.908280274031583
+          ],
+          [
+            107.61747270446938,
+            -6.908300874780679
+          ],
+          [
+            107.61744849449803,
+            -6.908183512928673
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pos Indonesia"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.6170751253203,
+            -6.906440778748447
+          ],
+          [
+            107.61706478731634,
+            -6.906350977569488
+          ],
+          [
+            107.61745246251098,
+            -6.906320188589703
+          ],
+          [
+            107.61751965954471,
+            -6.906946230779511
+          ],
+          [
+            107.61775484916387,
+            -6.906938533544462
+          ],
+          [
+            107.61778327867779,
+            -6.907210502438716
+          ],
+          [
+            107.61717592087194,
+            -6.907256685820755
+          ],
+          [
+            107.61713973785407,
+            -6.9066845247187985
+          ],
+          [
+            107.61701309728852,
+            -6.906694787704012
+          ],
+          [
+            107.61699759028056,
+            -6.906448475990558
+          ],
+          [
+            107.61708029432225,
+            -6.906443344495841
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name": "Goethe Insitut Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.61790378393403,
+              -6.906257665483693
+            ],
+            [
+              107.61790378393403,
+              -6.906448481990239
+            ],
+            [
+              107.6180536435034,
+              -6.906448481990239
+            ],
+            [
+              107.6180536435034,
+              -6.906257665483693
+            ],
+            [
+              107.61790378393403,
+              -6.906257665483693
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
