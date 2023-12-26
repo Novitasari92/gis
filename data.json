@@ -1059,7 +1059,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mom's"
+        "name": "Moms"
       },
       "geometry": {
         "coordinates": [
@@ -1194,7 +1194,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+       "name": "Gor Saparua" 
+      },
       "geometry": {
         "coordinates": [
           [
