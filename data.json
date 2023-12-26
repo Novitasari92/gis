@@ -1195,7 +1195,7 @@
     {
       "type": "Feature",
       "properties": {
-       "name": "Universitas Padjajaran DU" 
+        "name": "Universitas Padjajaran - Doctorate and Master in Applied Economics"
       },
       "geometry": {
         "coordinates": [
@@ -1580,7 +1580,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name": "Gudeg Banda"
+        "name": "Gudeg Banda"
       },
       "geometry": {
         "coordinates": [
@@ -1618,6 +1618,72 @@
           ]
         ],
         "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Office and Beyond Building"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.62049972959721,
+              -6.904937287167556
+            ],
+            [
+              107.62050390174068,
+              -6.905107794632045
+            ],
+            [
+              107.6206408871048,
+              -6.905104343064465
+            ],
+            [
+              107.62063462889046,
+              -6.904931764657221
+            ],
+            [
+              107.62049972959721,
+              -6.904937287167556
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       "name": "Two Cents"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.62051800664858,
+              -6.905397496168419
+            ],
+            [
+              107.62051070812174,
+              -6.905482718030896
+            ],
+            [
+              107.62064659975209,
+              -6.905494794002294
+            ],
+            [
+              107.6206549409273,
+              -6.905409572141991
+            ],
+            [
+              107.62051800664858,
+              -6.905397496168419
+            ]
+          ]
+        ],
+        "type": "Polygon"
       }
     }
   ]
